@@ -1,6 +1,7 @@
 ---
 title: "oXygen XML – Technical Writing Samples"
 ---
+<img src="/oxygen-xml.jpg" alt="oXygen xml sample" style="display:block;margin:auto;width:80%;max-width:700px;">
 
 # oXygen XML
 
