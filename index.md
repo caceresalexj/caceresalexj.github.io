@@ -1,6 +1,8 @@
 ---
 title: "Alejandro Caceres – Technical Writer & Documentation Engineer"
 ---
+<img src="/Alex-Caceres.jpg" alt="Alejandro Caceres" width="220" style="border-radius:50%; display:block; margin:auto;">
+
 
 # 👋 Hi, I'm Alex, your friendly neighborhood technical writer
 [Home](/) · [Projects](/projects)
