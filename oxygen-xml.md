@@ -4,7 +4,14 @@ title: "oXygen XML – Technical Writing Samples"
 
 # oXygen XML
 
-Selected work samples and notes related to my DITA/XML work in oXygen.
+Highlights of my DITA/XML structured authoring work using oXygen XML Editor.
 
-- DITA Example: https://github.com/caceresalexj/WritingSamples/tree/main/DITA-Example
-- (Optional) Add links/screenshots to maps, topic types, and profiling examples here.
+## 📘 DITA Project Example
+[View on GitHub →](https://github.com/caceresalexj/WritingSamples/tree/main/DITA-Example)
+
+## 🔍 Focus Areas
+- Topic type development and DITA maps  
+- Conditional profiling and reuse  
+- Publishing to HTML5 and PDF outputs  
+- Metadata and content validation  
+- Team authoring and Git integration
