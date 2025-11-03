@@ -7,7 +7,7 @@ title: "Alejandro Caceres – Technical Writer & Documentation Engineer"
 <img src="/Alex-Caceres.jpg" alt="Alejandro Caceres" class="header-photo">
 
 <ul class="top-menu">
-  <li><a href="https://www.linkedin.com/in/alejandro-caceres" target="_blank" rel="noopener">LinkedIn Profile</a></li>
+  <li><a href="https://www.linkedin.com/in/alejandro-caceres-2a362a21/" target="_blank" rel="noopener">LinkedIn Profile</a></li>
   <li><a href="/Alejandro%20Caceres%20-%20Resume.pdf">Curriculum Vitae</a></li>
 </ul>
 
