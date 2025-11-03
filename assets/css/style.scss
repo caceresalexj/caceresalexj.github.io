@@ -48,3 +48,38 @@
 
 /* Section spacing */
 section { margin: 2rem auto; max-width: 820px; }
+
+/* ----- Custom Color Scheme ----- */
+body {
+  background-color: #2b2b2b; /* medium grey */
+  color: #f5f5f5;            /* near white text */
+}
+
+a {
+  color: #9cdcfb;            /* soft blue links */
+}
+
+a:hover {
+  color: #ffffff;            /* white on hover */
+}
+
+h1, h2, h3, h4, h5 {
+  color: #ffffff;
+}
+
+.top-menu a, .submenu a {
+  color: #f5f5f5;
+  border-bottom: 1px solid transparent;
+}
+
+.top-menu a:hover, .submenu a:hover {
+  border-bottom: 1px solid #9cdcfb;
+}
+
+/* Optional: subtle divider color adjustments */
+hr {
+  border: 0;
+  border-top: 1px solid #777;
+}
+
+
