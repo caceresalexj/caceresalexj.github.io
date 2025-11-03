@@ -2,7 +2,7 @@
 title: "Alejandro Caceres – Technical Writer & Documentation Engineer"
 ---
 
-# 👋 Hi, I'm Alejandro Caceres
+# 👋 Hi, I'm Alex, your friendly neighborhood technical writer
 **Senior Technical Writer & Documentation Engineer**  
 Ontario, Canada · Multilingual (EN/ES/PT/FR/JP)
 
