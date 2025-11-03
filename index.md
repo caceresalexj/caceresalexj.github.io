@@ -17,7 +17,7 @@ I create clear, reusable documentation for complex systems using **DITA/XML, Mar
 
 ## Selected Work
 - **Writing Samples (GitHub)** — Structured authoring, DITA, and Markdown examples  
-  https://github.com/caceresalexj/WritingSamples
+  (https://github.com/caceresalexj/WritingSamples)
 
 ---
 
@@ -29,9 +29,9 @@ I create clear, reusable documentation for complex systems using **DITA/XML, Mar
 ---
 
 ## Contact
-📧 caceresalexj@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/alejandro-caceres  
-💼 GitHub:  https://github.com/caceresalexj  
+📧 [caceresalexj@gmail.com](mailto:caceresalexj@gmail.com)  
+🔗 [LinkedIn:](https://www.linkedin.com/in/alejandro-caceres)  
+💼 [GitHub:](https://github.com/caceresalexj)  
 📄 [Download Resume (PDF)](/Alejandro%20Caceres%20-%20Resume.pdf)
 
 
