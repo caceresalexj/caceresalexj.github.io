@@ -4,7 +4,14 @@ title: "MadCap Flare – Technical Writing Samples"
 
 # MadCap Flare
 
-Selected work samples and notes related to my Flare projects.
+Samples and references from my MadCap Flare documentation projects.
 
-- Writing Samples repo (root): https://github.com/caceresalexj/WritingSamples
-- (Optional) Add links/screenshots to specific Flare outputs or topics here.
+## 📘 Writing Samples Repository
+[Visit on GitHub →](https://github.com/caceresalexj/WritingSamples)
+
+## 🔍 Focus Areas
+- Responsive HTML5 outputs  
+- Master Page and CSS layout design  
+- Topic types and content reuse  
+- TOC and cross-reference management  
+- Localization and translation workflow
