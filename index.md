@@ -32,6 +32,8 @@ I create clear, reusable documentation for complex systems using **DITA/XML, Mar
 📧 caceresalexj@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/alejandro-caceres  
 💼 GitHub:  https://github.com/caceresalexj
+📄 [Download Resume (PDF)](/Alejandro-Caceres-Resume.pdf)
+
 
 ---
 
