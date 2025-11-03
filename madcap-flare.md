@@ -16,3 +16,5 @@ Samples and references from my MadCap Flare documentation projects.
 - Topic types and content reuse  
 - TOC and cross-reference management  
 - Localization and translation workflow
+
+[← Back to Home](/)
