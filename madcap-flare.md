@@ -1,7 +1,7 @@
 ---
 title: "MadCap Flare – Technical Writing Samples"
 ---
-<img src="/flare-thumbnail.jpg" alt="MadCap Flare sample" style="display:block;margin:auto;width:80%;max-width:700px;">
+<img src="/madcap-flare.jpg" alt="MadCap Flare sample" style="display:block;margin:auto;width:80%;max-width:700px;">
 
 # MadCap Flare
 
