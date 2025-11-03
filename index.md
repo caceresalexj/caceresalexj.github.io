@@ -1,42 +1,23 @@
 ---
 title: "Alejandro Caceres – Technical Writer & Documentation Engineer"
 ---
-<img src="/Alex-Caceres.jpg" alt="Alejandro Caceres" width="220" style="border-radius:50%; display:block; margin:auto;">
 
+# Alejandro Caceres
 
-# 👋 Hi, I'm Alex, your friendly neighborhood technical writer
-[Home](/) · [Projects](/projects)
+<img src="/Alex-Caceres.jpg" alt="Alejandro Caceres" class="header-photo">
 
-**Senior Technical Writer & Documentation Engineer**  
-Ontario, Canada · Multilingual (EN/ES/PT/FR/JP)
+<ul class="top-menu">
+  <li><a href="https://www.linkedin.com/in/alejandro-caceres" target="_blank" rel="noopener">LinkedIn Profile</a></li>
+  <li><a href="/Alejandro%20Cacers%20-%20Resume.pdf">Curriculum Vitae</a></li>
+</ul>
 
----
+<ul class="submenu">
+  <li><strong>Technical Writing samples:</strong></li>
+  <li><a href="/madcap-flare">MadCap Flare</a></li>
+  <li><a href="/oxygen-xml">oXygen XML</a></li>
+</ul>
 
-## About
-I create clear, reusable documentation for complex systems using **DITA/XML, Markdown, Git**, and strong information architecture. I translate engineering detail into developer-friendly docs, tutorials, and guides.
-
----
-
-## Selected Work
-- **Writing Samples (GitHub)** — Structured authoring, DITA, and Markdown examples  
-  [Writing Samples](https://github.com/caceresalexj/WritingSamples)
-
----
-
-## Skills
-- Docs-as-code (Markdown, Git, CI/CD), DITA/XML  
-- API & Developer Docs · Information Architecture  
-- Technical illustration (SolidWorks, KeyShot, Illustrator)
-
----
-
-## Contact
-📧 [Reach me at caceresalexj@gmail.com](mailto:caceresalexj@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/alejandro-caceres)  
-💼 [GitHub Site](https://github.com/caceresalexj)  
-📄 [Download Resume (PDF)](/Alejandro%20Caceres%20-%20Resume.pdf)
-
-
----
-
-© 2025 Alejandro Caceres · Built with GitHub Pages
+<section>
+  <h2>About</h2>
+  <p>I create clear, reusable documentation for complex systems using DITA/XML, Markdown, Git, and strong information architecture. I translate engineering detail into developer-friendly docs, tutorials, and guides.</p>
+</section>
