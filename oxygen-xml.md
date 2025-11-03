@@ -16,3 +16,6 @@ Highlights of my DITA/XML structured authoring work using oXygen XML Editor.
 - Publishing to HTML5 and PDF outputs  
 - Metadata and content validation  
 - Team authoring and Git integration
+
+
+[← Back to Home](/)
