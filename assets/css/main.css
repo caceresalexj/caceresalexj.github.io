@@ -1131,31 +1131,33 @@ input, select, textarea {
 		}
 
 		#bg:before {
-		    background-image: linear-gradient(to top, rgba(19, 21, 25, 0.55), rgba(19, 21, 25, 0.55)), url("../images/overlay.png");
-		    background-size: auto, 256px 256px;
-		    background-position: center, center;
-		    background-repeat: no-repeat, repeat;
-		    z-index: 2;
+		  background-image: linear-gradient(to top, rgba(19, 21, 25, 0.55), rgba(19, 21, 25, 0.55)), url("../../images/overlay.png");
+		  background-size: auto, 256px 256px;
+		  background-position: center, center;
+		  background-repeat: no-repeat, repeat;
+		  z-index: 2;
 		}
+
 
 
 		#bg:after {
-		    background-image: 
-		        url("../images/Logo-Antenna.svg"),
-		        url("../images/Logo-Kiosk.svg"),
-		        url("../images/bg.jpg");
-		    background-position: 
-		        left 5% top 5%,     /* Antenna in top-left */
-		        right 10% center,   /* Kiosk on the right */
-		        center center;      /* Background photo */
-		    background-repeat: no-repeat, no-repeat, no-repeat;
-		    background-size: 
-		        20%,                /* Antenna size */
-		        30%,                /* Kiosk size */
-		        cover;              /* Background photo */
-		    z-index: 1;
-			opacity: 0.6;
+		  background-image:
+		    url("../../images/Logo-Antenna.svg"),
+		    url("../../images/Logo-Kiosk.svg"),
+		    url("../../images/bg.jpg");
+		  background-position:
+		    left 5% top 5%,
+		    right 10% center,
+		    center center;
+		  background-repeat: no-repeat, no-repeat, no-repeat;
+		  background-size:
+		    20%,
+		    30%,
+		    cover;
+		  z-index: 1;
+		  opacity: 0.6;
 		}
+
 
 
 		body.is-article-visible #bg:after {
@@ -1689,4 +1691,5 @@ input, select, textarea {
 			opacity: 0;
 
 		}
+
 
