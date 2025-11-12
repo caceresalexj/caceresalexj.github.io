@@ -1143,9 +1143,9 @@ input, select, textarea {
 /* stacked backgrounds */
 		#bg:after {
 		  background-image:
+		    url("../../images/bg.jpg");
 		    url("../../images/Logo-Antenna.svg"),
 		    url("../../images/Logo-Kiosk.svg"),
-		    url("../../images/bg.jpg");
 		  background-position:
 		    left 5% top 5%,
 		    right 10% center,
@@ -1692,6 +1692,7 @@ input, select, textarea {
 			opacity: 0;
 
 		}
+
 
 
 
