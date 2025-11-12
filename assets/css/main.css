@@ -1130,6 +1130,7 @@ input, select, textarea {
 			height: 100%;
 		}
 
+/* overlay */
 		#bg:before {
 		  background-image: linear-gradient(to top, rgba(19, 21, 25, 0.55), rgba(19, 21, 25, 0.55)), url("../../images/overlay.png");
 		  background-size: auto, 256px 256px;
@@ -1139,7 +1140,7 @@ input, select, textarea {
 		}
 
 
-
+/* stacked backgrounds */
 		#bg:after {
 		  background-image:
 		    url("../../images/Logo-Antenna.svg"),
@@ -1691,5 +1692,6 @@ input, select, textarea {
 			opacity: 0;
 
 		}
+
 
 
