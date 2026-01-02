@@ -1693,6 +1693,55 @@ input, select, textarea {
 
 		}
 
+/* ============================
+   Tools cards (Dimension theme)
+   ============================ */
+
+.tools-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 0 0;
+}
+
+/* Card container (matches Dimension glass look) */
+.tool-card {
+  border: solid 1px rgba(255, 255, 255, 0.15);
+  border-radius: 4px; /* Dimension uses 4px a lot */
+  padding: 1.25rem;
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* Slight hover like the rest of the theme */
+.tool-card:hover {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+/* Tidy headings inside cards */
+.tool-card h4 {
+  margin: 0 0 0.75rem 0;
+}
+
+/* The theme sets UL as disc globally; keep it for the lists inside cards */
+.tool-card ul {
+  margin: 0;
+  padding-left: 1.1em;
+}
+
+.tool-card li {
+  margin-bottom: 0.4rem;
+}
+
+/* Make the small icon align nicely with the heading */
+.tool-card h4 .icon {
+  margin-right: 0.5rem;
+}
+
+/* Optional: spacing between sections */
+.tools-slim hr {
+  margin: 2rem 0;
+}
+
 
 
 
